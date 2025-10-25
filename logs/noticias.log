@@ -38,3 +38,45 @@ https://s2-g1.glbimg.com/Bf5ck8uP4djHFeG95zeBzWqBe-Y=/540x304/top/smart/https://
 2025-10-25 14:21:20 | INFO | noticias | [DB] Concluído em 0.36s
 2025-10-25 14:21:20 | INFO | noticias | ===== FIM EXECUÇÃO noticias.ipynb =====
 2025-10-25 14:52:35 | INFO | noticias | ===== INÍCIO EXECUÇÃO noticias.ipynb =====
+2025-10-25 19:57:18 | INFO | noticias | ===== INÍCIO EXECUÇÃO noticias.ipynb =====
+2025-10-25 19:57:19 | INFO | noticias | [G1] Iniciando extração
+2025-10-25 20:00:45 | INFO | noticias | [G1] Driver encerrado
+2025-10-25 20:01:21 | INFO | noticias | ===== INÍCIO EXECUÇÃO noticias.ipynb =====
+2025-10-25 20:01:21 | INFO | noticias | [G1] Iniciando extração
+2025-10-25 20:01:40 | INFO | noticias | [G1] Pop-up fechado
+2025-10-25 20:02:00 | INFO | noticias | [G1] Coletados 32 registros
+2025-10-25 20:02:03 | INFO | noticias | [G1] Driver encerrado
+2025-10-25 20:02:03 | INFO | noticias | [G1] Concluído em 41.93s
+2025-10-25 20:02:03 | INFO | noticias | [CNN] Iniciando extração
+2025-10-25 20:02:14 | INFO | noticias | [CNN] Aceite de cookies clicado
+2025-10-25 20:02:17 | INFO | noticias | [CNN] Página 1: 10 registros
+2025-10-25 20:02:20 | INFO | noticias | [CNN] Próxima página clicada
+2025-10-25 20:02:23 | INFO | noticias | [CNN] Página 2: 10 registros
+2025-10-25 20:02:25 | INFO | noticias | [CNN] Próxima página clicada
+2025-10-25 20:02:25 | INFO | noticias | [CNN] Total coletado: 20
+2025-10-25 20:02:27 | INFO | noticias | [CNN] Driver encerrado
+2025-10-25 20:02:27 | INFO | noticias | [CNN] Concluído em 24.38s
+2025-10-25 20:02:27 | INFO | noticias | [Folha] Iniciando extração
+2025-10-25 20:02:40 | INFO | noticias | [Folha] 'Mostrar mais' clicado (rodada 1)
+2025-10-25 20:02:42 | INFO | noticias | [Folha] 'Mostrar mais' clicado (rodada 2)
+2025-10-25 20:02:45 | INFO | noticias | [Folha] 'Mostrar mais' clicado (rodada 3)
+2025-10-25 20:02:47 | INFO | noticias | [Folha] 'Mostrar mais' clicado (rodada 4)
+2025-10-25 20:02:50 | WARNING | noticias | [Folha] Listas com tamanhos diferentes: img=99 | data=99 | tit=103 | link=103. Fazendo pad para 103
+2025-10-25 20:02:50 | INFO | noticias | [Folha] Coletados 99 registros
+2025-10-25 20:02:52 | INFO | noticias | [Folha] Driver encerrado
+2025-10-25 20:02:52 | INFO | noticias | [Folha] Concluído em 24.87s
+2025-10-25 20:02:52 | INFO | noticias | [ETL] Normalizando e removendo duplicatas
+2025-10-25 20:02:52 | INFO | noticias | [ETL] Linhas antes: 151 | após dedupe: 151 | removidas: 0
+2025-10-25 20:02:52 | INFO | noticias | [ETL] Amostra:
+2025-10-25 20:02:52 | INFO | noticias |                                                                                                                                                                                                                                                        urlImagem dataPublicacao                                                                                               titulo                                                                  link fonte        dataExtracao                 hash
+                         https://s2-g1.glbimg.com/5WrVoTrL2c24Do4OEg3tDprvptE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/P/tCWnbnTHuFIxLcWlmcGA/globo-canal-5-20241101-1800-frame-310355.jpeg     2025-10-24     Dólar tem leve alta e fecha a R$ 5,39 com dados de inflação no Brasil e nos EUA; Ibovespa avança https://g1.globo.com/economia/noticia/2025/10/24/dolar-ibovespa.ghtml    G1 2025-10-25 20:02:00  -313646705446447506
+                                                                                                                https://s2-g1.glbimg.com/B2YXPBxijNajZUUdb5491y0ehy4=/540x304/top/smart/filters:max_age(3600)/https://s01.video.glbimg.com/deo/vi/31/59/14035931     2025-10-23                       Dólar cai e fecha a R$ 5,38 após sanção dos EUA contra a Rússia; Ibovespa sobe https://g1.globo.com/economia/noticia/2025/10/23/dolar-ibovespa.ghtml    G1 2025-10-25 20:02:00  -558130180018427337
+https://s2-g1.glbimg.com/Bf5ck8uP4djHFeG95zeBzWqBe-Y=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg     2025-10-22 Dólar tem leve alta e fecha a R$ 5,39 com expectativa por encontro entre Lula e Trump; Ibovespa sobe https://g1.globo.com/economia/noticia/2025/10/22/dolar-ibovespa.ghtml    G1 2025-10-25 20:02:00 -6324938366920195384
+2025-10-25 20:02:52 | INFO | noticias | [ETL] Concluído em 0.05s
+2025-10-25 20:02:52 | INFO | noticias | [DB] Iniciando persistência em DuckDB
+2025-10-25 20:02:53 | INFO | noticias | [DB] Tabela verificada/criada
+2025-10-25 20:02:53 | INFO | noticias | [DB] Inseridos -1 registros
+2025-10-25 20:02:53 | INFO | noticias | [DB] Export gerado em ./exports/noticias.csv
+2025-10-25 20:02:53 | INFO | noticias | [DB] Conexão encerrada
+2025-10-25 20:02:53 | INFO | noticias | [DB] Concluído em 0.19s
+2025-10-25 20:02:53 | INFO | noticias | ===== FIM EXECUÇÃO noticias.ipynb =====
